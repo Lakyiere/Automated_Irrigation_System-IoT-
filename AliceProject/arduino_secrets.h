@@ -1,0 +1,3 @@
+#define SECRET_SSID "Lakyiere"
+#define SECRET_PASS "alice1999***"
+#define SECRET_DEVICE_KEY "FAKLJWO6AQCLLDCMSAYV"
