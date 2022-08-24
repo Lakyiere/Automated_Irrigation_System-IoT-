@@ -9,12 +9,12 @@ Arduino Software
 
 # Hardware: 
 
-Water sensor
-Humidity and Temperature Sensor
-NodeMCU ESP8266
-Submersible Mini Water Pump
-Relay Module
-Jumper Wires
+- Water sensor
+- Humidity and Temperature Sensor
+- NodeMCU ESP8266
+- Submersible Mini Water Pump
+- Relay Module
+- Jumper Wires
 
 # Programming Language used:
 
